@@ -1,0 +1,5 @@
+d=float(input('Valor em real (R$)= '))
+print('Valor em dolar ($)= {:.2f}'.format(d/3.27))
+d=float(input('Valor em real (R$)= '))
+c=float(input('Cotação atual= '))
+print('Valor em dolar ($)= {:.2f})'.format(d/c))
