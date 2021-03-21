@@ -5,3 +5,4 @@ preço=(60*dias)+(0.15*km)
 print('O valor da locação é da R${:.2f}'.format(preço))
 print('preço {:.2f}'.format(km*0.15+dias*60))
 print('Tudo bem')
+
