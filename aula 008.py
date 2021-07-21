@@ -6,10 +6,19 @@ num=int(input('Digite um número'))
 raiz=math.sqrt(num)
 print('A raiz quadrada de {} é {}'.format(num,raiz))
 print('A raiz quadrada de {} é {}'.format(num,math.ceil(raiz))) #ceil arredonda para cima
-'''From math __import__(sqrt)
-============== Na biblioteca math ============='''
-'''floor aredonda para baixo
-trunc trunca
-pow potenciação
-sqrt raiz quadrada'''
 
+'''From math __import__(sqrt)
+============== Na biblioteca math =============
+
+ceil      arredonda para baixo
+
+floor     aredonda para baixo
+
+trunc     trunca
+
+pow       potenciação
+
+sqrt      raiz quadrada
+
+factorial fatorial
+'''
