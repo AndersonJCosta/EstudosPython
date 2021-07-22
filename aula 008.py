@@ -1,8 +1,8 @@
 #from math import sqrt,ceil = para importar apena  sqrt e ceil
 import emoji
-print(emoji.emojize('Python is :thumbs_up:'))
+print (emoji.emojize('Python is :thumbs_up:', use_aliases=True))
 import math# importa biblioteca math
-num=int(input('Digite um número'))
+num=int(input('Digite um número '))
 raiz=math.sqrt(num)
 print('A raiz quadrada de {} é {}'.format(num,raiz))
 print('A raiz quadrada de {} é {}'.format(num,math.ceil(raiz))) #ceil arredonda para cima

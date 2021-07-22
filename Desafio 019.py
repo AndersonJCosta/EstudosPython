@@ -6,7 +6,8 @@ n4=input('Qaurto nome ')
 lista=[n1,n2,n3,n4]
 print('Escolhido',choice(lista))
 
-'''import random
+'''
+import random
 primeiro = str(input('Primeiro nome '))
 segundo = str(input('Segundo nome '))
 terceiro = str(input('Terceiro nome '))
