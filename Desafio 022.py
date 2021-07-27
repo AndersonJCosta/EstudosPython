@@ -3,7 +3,7 @@
 Recebe o nome
 retorna o nome em maiusculo
 retorna o nome em ninusculo
-retorna quantidade de letras do nome
+retorna quantidade de letras do nome (não conta espeços)
 retorna quantidade de letras do primeiro nome
 '''
 
